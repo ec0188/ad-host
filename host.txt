@@ -1,0 +1,7 @@
+﻿0.0.0.0 www.tradplusad.com
+0.0.0.0 tradplusad.com
+0.0.0.0 adx-event.tradplusad.com
+0.0.0.0 bidder.tradplusad.com
+0.0.0.0 openapi.tradplusad.com
+0.0.0.0 api.tradplusad.com
+0.0.0.0 event.tradplusad.com
