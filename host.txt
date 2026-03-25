@@ -5,3 +5,11 @@
 0.0.0.0 openapi.tradplusad.com
 0.0.0.0 api.tradplusad.com
 0.0.0.0 event.tradplusad.com
+0.0.0.0 ads.hktvmall.com
+0.0.0.0 ad-splash.hktvmall.com
+0.0.0.0 ad-splash-tracking.hktvmall.com
+0.0.0.0 live-stream.hktvmall.com
+0.0.0.0 live-stream01.hktvmall.com
+0.0.0.0 live-stream02.hktvmall.com
+0.0.0.0 live-stream03.hktvmall.com
+0.0.0.0 live-stream04.hktvmall.com
